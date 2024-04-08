@@ -3,8 +3,9 @@
 
 ### meembuat etl sederhana 
 
-```
 **BACKGROUND PROJECT**
+
+```
 Project 3 ini bertuan untuk membuat script migrasi data dari source table di
 database production marketplace ke data warehouse. Hal ini bertujuan untuk
 memungkinkan tim data analyst membuat dashboard terkait detail pesanan
